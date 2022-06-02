@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/React-Responsive-Portfolio/static/css/main.44908aab.css",
-    "main.js": "/React-Responsive-Portfolio/static/js/main.7c00bfcb.js",
+    "main.js": "/React-Responsive-Portfolio/static/js/main.36f0445a.js",
     "static/js/787.128fc6e9.chunk.js": "/React-Responsive-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/amazon.png": "/React-Responsive-Portfolio/static/media/amazon.14e44dbdb60bfabf6ded.png",
     "static/media/orgportfolio.png": "/React-Responsive-Portfolio/static/media/orgportfolio.625a0ea269d088253f7a.png",
+    "static/media/sbeditresume.pdf": "/React-Responsive-Portfolio/static/media/sbeditresume.920dd66d0d55e81ca8fe.pdf",
     "static/media/cafe1.png": "/React-Responsive-Portfolio/static/media/cafe1.567e06d0bcd47546fb24.png",
-    "static/media/SagarResume.pdf": "/React-Responsive-Portfolio/static/media/SagarResume.62205921aaf93b3e85d5.pdf",
     "static/media/eggcelent.png": "/React-Responsive-Portfolio/static/media/eggcelent.fbdda4fc57c5f2ab5761.png",
     "static/media/portfolio2.png": "/React-Responsive-Portfolio/static/media/portfolio2.67f4a125125b76bc29f9.png",
     "static/media/gym.png": "/React-Responsive-Portfolio/static/media/gym.d0ce265de7fafad6a839.png",
@@ -15,11 +15,11 @@
     "static/media/weather.png": "/React-Responsive-Portfolio/static/media/weather.5d3720c605e0e24f73a6.png",
     "index.html": "/React-Responsive-Portfolio/index.html",
     "main.44908aab.css.map": "/React-Responsive-Portfolio/static/css/main.44908aab.css.map",
-    "main.7c00bfcb.js.map": "/React-Responsive-Portfolio/static/js/main.7c00bfcb.js.map",
+    "main.36f0445a.js.map": "/React-Responsive-Portfolio/static/js/main.36f0445a.js.map",
     "787.128fc6e9.chunk.js.map": "/React-Responsive-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44908aab.css",
-    "static/js/main.7c00bfcb.js"
+    "static/js/main.36f0445a.js"
   ]
 }
